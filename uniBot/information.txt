@@ -1,0 +1,11 @@
+code
+semester
+type
+hours
+ects
+instructor/teacher
+url/link/webpage
+goals/learns
+content/info
+teaching method/method
+evaluation

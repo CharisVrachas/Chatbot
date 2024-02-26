@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "unibot-prvi",
+  "private_key_id": "fafde8bc13f6a94c50b8c612e35c70f32d7623f2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCNLYyrGEZ1foyr\nkYyPA7Hz7OIpSpJz6BaIhNLEfnYv4Y2Q0s6ypgmylnve6TSoWUmQQ8JQYJPzZ5c1\n48B/c8C18T6XWKuoWtWtC8evSdXeKuwJ4c7k1doxlSWNCgKXPdRIoP5WiPilE9I2\nPmhP9z6eRXK4oLi5O81BN5/xwQs7AiQFqlFi5z/7ZG/ZV1Qwwo2GHx46zLPoUfTt\n7cDMLx4GTS09dwV5uIhBTiLogIouxKcmKumsaJSod18JAD3zA0Xhq/EPre/3nWsP\noTgKp4p4RvMeHfaU0dtMszc/W72raAE5beCp/C0Nw1qWpKNthp8psWt71iPjjv3m\nx4bdhiIRAgMBAAECggEAEjK1Z8FHenzCEERA7JcgLgkHzCUfL2P9h5fWKAWvIWk/\nMNRjrYFGoxJ6dteedeGbNcaY5SMrNHHS0DECpCCHzkwscnY3xl9THNfLDoGDg9G0\n6b8wRqzO+puMTXEQDW58ZJJQHAJ9nqB+n9xii4WbjkD10pkbxqYlRUtbdDPF8/3t\nGn1v1rjL5+8oNKb+3R7SvmZM0Ket9Y8zeRtgmtajh8z3KdxwXm3gel+hoWsD9seH\nhbmKY7GxB/2DeoJUB32SAo6d8f0hICYRsUTtrQlxiX0RWE4JIN6CN9i4fDBz4O8N\noKD4tL3/JvAsMXpNAGU+lxrtWSHFQPsaxgp1XUk4WwKBgQDFcZGgCOhfoP7IAljN\nR+noH8766ydKZVlUG02bRyLMMN0W5rG4j1HoXmui+IIQgNNSMCvDDPmihJjq7Whf\noTwKmtj/PvB3N1vS0Kn4ed+lOWpJDpzaGe6nQmZErVsSXOSqfP+BM2ZJlV7vIo7Y\nO3Aa/co9Qz2w8EPI8R47B3thdwKBgQC3DCSfWKxdptDdmWQW0BuYkcWslTadE3qz\nVDVa7vT8G0r5/CzGe42IPJ7fPar8wkv9vpMRzA2SzzrE+jWkow36+9BJs+tK17m8\n/ndHGiN18UBOw7+3LD7VcRZYcuSM5oNXjcVJ6S7A3EdA6ac93mWjtkdr1i+YzVUp\n/Dw3VVW6twKBgEbiBs3VZNcwDUfwz8Ci2K6k/MHIOkrTJ8ayJqJgX3W+9SCLobII\ngfdSLoJLhSY3maYf9RYJSnW19NAiex4Z3FxSSyUXi2zBSw3cK6kw18GRYz7nKBiE\nxtD1XZG6Sr/E6bLrPS89LLOuFG71kSK/8/c8taZYxYUIPM2fAqNehETxAoGAPIlN\ni01eI9LJfKAAE/NbTQfYogzu9N++UpRk2N/yMXYtQ6N8g1/VHNs/h4DzjYgMbayb\nIuWjD4xtWTuOhhZOx1SEO/u+sw/JI5HcjK0+UQEqTWI7gy6k0R4HT9UfdOG/SjNe\nreTqS2oOPo+HedSVNKFR2X4KW7R8l9gNahdUtN0CgYBAHHef5u7zzB/VMEBw6q/l\nKlQ+/b3P+4e7JJiJotdZL37BlQFR2npNW6sLGU8PrwplhQ5hbdiX/sYWk3hYA/nZ\n0pM5dQzRBXBqcJ27f/KmgTHJPwMccO1qZZ5e4wHkFMI0UeOIVS9fXMqVkUBmZS0S\nf2a8G09xD6no7E8UmXnABQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "unibot@unibot-prvi.iam.gserviceaccount.com",
+  "client_id": "111700664157757518133",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/unibot%40unibot-prvi.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
